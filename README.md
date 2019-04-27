@@ -1,3 +1,13 @@
+# Clicky-Game
+
+A game where you try to click all of the images without an repeats.
+
+## Where
+
+The app is deployed to heroku at: https://clicky-game-jg.herokuapp.com/
+
+# About create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
